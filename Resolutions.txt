@@ -1,0 +1,10 @@
+Floor tiles: 64x32 diamond + 8 thickness -> 64x40
+Wall tiles: 64x128
+Small props: 16x16
+Light Textures: 128x128
+Character sprites: 48x64
+
+Godot Engine Resolution: 640x360
+Project stretch canvas_items
+Grid: 32x16
+Canvas modulate node set to #101428 to darken map.
