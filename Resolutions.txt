@@ -6,5 +6,5 @@ Character sprites: 48x64
 
 Godot Engine Resolution: 640x360
 Project stretch canvas_items
-Grid: 32x16
+Grid: 64x32
 Canvas modulate node set to #101428 to darken map.
