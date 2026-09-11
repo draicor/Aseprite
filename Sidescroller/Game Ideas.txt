@@ -1,0 +1,68 @@
+Structure:
+- Hub-based RPG.
+- Explore street + interiors.
+- Talk to NPCs.
+- Take quests.
+- Use guns, later melee. Stealth and cover matter.
+- Characters are fragile.
+
+
+Art to draw:
+TIER 1:
+- Walking.
+- Running.
+- Crouching.
+- Crouch-walk.
+- Climbing ladder.
+- Dodge.
+- Roll.
+- Interact/reach item.
+- Talk Idle
+- Flashlight Idle.
+- Flashlight walk.
+- Flashlight run.
+- Flashlight crouch idle.
+- Flashlight crouch walk.
+
+TIER 2:
+- Pistol idle.
+- Pistol walk.
+- Pistol aim idle.
+- Pistol fire.
+- Pistol reload.
+- Pistol crouch idle.
+- Pistol crouch walk.
+- Pistol crouch fire.
+- Pistol crouch reload.
+- Pistol draw.
+- Pistol holster.
+
+TIER 3:
+- Get hit.
+- Death.
+- Pistol get hit.
+- Pistol death.
+- Take cover.
+- Leave cover.
+- Pistol blind fire.
+
+TIER 4:
+- Melee punch.
+- Melee kick.
+- Melee block.
+
+TIER 5:
+- Pistol holster sprite.
+- Street sidewalk.
+- Crate.
+- Dumpster.
+- Pillar.
+- Payphone.
+- HUD health/ammo.
+- Dialogue box.
+
+
+What to avoid:
+- Large maps with slow traverse speed, boring.
+- Don't release the game only in English.
+- Make sure resolution change won't crash the game or computer.
