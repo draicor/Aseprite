@@ -1,0 +1,44 @@
+GIMP Palette
+Name: Maralath
+Columns: 5
+#
+61 12 58	head1
+122 34 112	head2
+199 74 191	head3
+222 133 213	head4
+240 189 234	head5
+21 43 71	torso1
+47 84 128	torso2
+74 127 191	torso3
+123 166 214	torso4
+176 205 234	torso5
+74 19 19	pelvis1
+154 46 46	pelvis2
+217 74 74	pelvis3
+232 128 128	pelvis4
+245 181 181	pelvis5
+30 58 18	leftarm1
+74 130 48	leftarm2
+111 191 74	leftarm3
+156 214 128	leftarm4
+197 232 181	leftarm5
+92 68 10	rightarm1
+173 138 30	rightarm2
+242 193 78	rightarm3
+247 215 135	rightarm4
+251 234 193	rightarm5
+46 27 69	leftleg1
+93 63 133	leftleg2
+138 95 191	leftleg3
+176 139 214	leftleg4
+211 188 232	leftleg5
+14 61 51	rightleg1
+42 133 113	rightleg2
+63 191 166	rightleg3
+122 213 195	rightleg4
+181 232 222	rightleg5
+8 8 10		joints1
+23 23 28	joints2
+43 43 51	joints3
+72 72 84	joints4
+105 105 122	joints5
