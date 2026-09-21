@@ -1,0 +1,1 @@
+96x32 tiles in godot and aseprite so the perspective works!
