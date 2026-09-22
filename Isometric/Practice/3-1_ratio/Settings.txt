@@ -1,1 +1,2 @@
-96x32 tiles in godot and aseprite so the perspective works!
+192x64 for Godot isometric tiles.
+In Aseprite, 192x192 tiles so the perspective works!
