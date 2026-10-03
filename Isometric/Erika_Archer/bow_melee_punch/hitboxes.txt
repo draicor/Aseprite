@@ -1,0 +1,20 @@
+bow_melee_punch:
+facing_offsets:
+	Vector2(60, -80),   # E
+	Vector2(40, -50),   # SE
+	Vector2(0, -50),    # S
+	Vector2(-40, -50),  # SW
+	Vector2(-60, -80),  # W
+	Vector2(-40, -100), # NW
+	Vector2(0, -120),   # N
+	Vector2(40, -100),  # NE
+
+facing_sizes:
+	Vector2(90, 60),  # E
+	Vector2(110, 80), # SE
+	Vector2(140, 40), # S
+	Vector2(110, 80), # SW
+	Vector2(90, 60),  # W
+	Vector2(110, 80), # NW
+	Vector2(140, 40), # N
+	Vector2(110, 80), # NE
