@@ -1,4 +1,9 @@
-bow_melee_punch:
+bow_bash:
+damage: 
+pushback: 0
+damage_type: Blunt
+hitbox_frame: 3
+active_frame: 2
 facing_offsets:
 	Vector2(60, -80),   # E
 	Vector2(40, -50),   # SE
@@ -10,11 +15,11 @@ facing_offsets:
 	Vector2(40, -100),  # NE
 
 facing_sizes:
-	Vector2(90, 60),  # E
+	Vector2(100, 60),  # E
 	Vector2(110, 80), # SE
 	Vector2(140, 40), # S
 	Vector2(110, 80), # SW
-	Vector2(90, 60),  # W
+	Vector2(100, 60),  # W
 	Vector2(110, 80), # NW
 	Vector2(140, 40), # N
 	Vector2(110, 80), # NE

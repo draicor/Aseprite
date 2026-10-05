@@ -1,0 +1,25 @@
+bow_kick:
+damage: 
+pushback: 500
+damage_type: Blunt
+hitbox_frame: 3
+active_frame: 0
+facing_offsets:
+	Vector2(80, -80),   # E
+	Vector2(40, -70),   # SE
+	Vector2(0, -50),    # S
+	Vector2(-40, -70),  # SW
+	Vector2(-80, -80),  # W
+	Vector2(-40, -100), # NW
+	Vector2(0, -120),   # N
+	Vector2(40, -100),  # NE
+
+facing_sizes:
+	Vector2(100, 60),  # E
+	Vector2(100, 80), # SE
+	Vector2(80, 50), # S
+	Vector2(100, 80), # SW
+	Vector2(100, 60),  # W
+	Vector2(100, 80), # NW
+	Vector2(80, 50), # N
+	Vector2(100, 80), # NE
